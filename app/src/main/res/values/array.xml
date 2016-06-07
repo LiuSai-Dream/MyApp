@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemtexts">
+        <item>@string/item0</item>
+        <item>@string/item1</item>
+        <item>@string/item2</item>
+    </string-array>
+
+    <array name="itemimgs">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+
+</resources>

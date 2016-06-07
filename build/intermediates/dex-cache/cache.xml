@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_radar_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb61966027336b8cc418a6a3ec159039aa0c2">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_radar_v3_7_3_d27e3c331aace478a8f9b23cc69ab469e2677d81\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_util_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77f23565c6bc14129d2ec152c809161343cdeaad">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_util_v3_7_3_0ee6401dfb623693d76169676a2048f95cc603a9\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_base_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="26aec1b74c9e42fb4f27432b79cf9e65365f5612">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v3_7_3_43ad3881683b814f81e408e81521a77eeaadc861\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\utdid4all-1.0.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\utdid4all-1.0.4_a9c19dc2f4ca35adf9b01705a9cfb800d59e579b\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\locSDK_6.23.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cff92d8446c1ac178a1440b926ff2a937c02b81">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.23_c025066981a544eaeba94131bbdea44a710e3469\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_search_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dea8cea1cf2639d2a92718333f47f5a7bef25b17">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_search_v3_7_3_3117a14db8d747fd2ac17f2afe14c4146eb4c860\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_cloud_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1bfd60b172276bd6c127e1b020578ba8943cb817">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_cloud_v3_7_3_286c2cfc44ff50425c10e6226f61db0b3e6a7c40\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e2e3d4031def19db77ad82618fc54fe1bfb4d21">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_109d5300b880c568a945aa6f9442afecc536572c\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\Baidu_Mtj_3.7.4.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7b29192b04577242a3a742d329743b1d5baf3c64">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_Mtj_3.7.4.2_63fa59af7d23ca5d4c7d54d528be9dbbf559d2ce\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\umeng-analytics-v6.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8023cd0713d5cd5bd212b0b6053fec03d133f9d1">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.0_eb57140295a497ee195ff15ccb6e69f32bf49182\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\libs\baidumapapi_map_v3_7_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b18498f0ff59163574118729da41b7e89971d713">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v3_7_3_41437ebf854470673b3453b546c055df79d3d9d8\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\LocationTest2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd565186d576e70ecc962f749f138493370fa177">
+        <dex dex="D:\android\LocationTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_989e75031e60048292ff71a60805e4df75415a56\classes.dex" />
+    </item>
+
+</items>

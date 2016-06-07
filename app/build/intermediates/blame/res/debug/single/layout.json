@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_content_provider.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_content_provider.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_notification.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_station.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_station.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lay_frame.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\lay_frame.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_input.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\dia_input.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_main.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_map.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_map.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_experimental.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_experimental.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_board.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\item_main_board.xml"
+    },
+    {
+        "merged": "D:\\android\\LocationTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_location.xml",
+        "source": "D:\\android\\LocationTest2\\app\\src\\main\\res\\layout\\act_location.xml"
+    }
+]

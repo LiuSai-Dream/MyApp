@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">定位</string>
+    <string name="action_settings">设置</string>
+
+    <string name="custom_title">定位</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="item0">功能测试</string>
+    <string name="item1">定位</string>
+    <string name="item2">内容提供器</string>
+
+    <string name="title_activity_experimental">Experimental</string>
+
+</resources>
