@@ -27,7 +27,7 @@ public class AlarmManagerUtil {
         PendingIntent pi = PendingIntent.getBroadcast(context, 0, intent, 0);
 
         // Set an alarm fires in between @min minutes and @max minutes.
-        int min = 5, max = 10;
+        int min = 5, max = 15;
         Random random = new Random();
         int minute = random.nextInt(max - min + 1) + min;
 
